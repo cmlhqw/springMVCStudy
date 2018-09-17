@@ -7,6 +7,7 @@
     <file type="web" url="file://$PROJECT_DIR$/springmvc4" />
     <file type="web" url="file://$PROJECT_DIR$/springmvc5" />
     <file type="web" url="file://$PROJECT_DIR$/springmvc6" />
+    <file type="web" url="file://$PROJECT_DIR$/ssm1" />
   </component>
   <component name="JavaScriptSettings">
     <option name="languageLevel" value="ES6" />
@@ -20,6 +21,7 @@
         <option value="$PROJECT_DIR$/springmvc4/pom.xml" />
         <option value="$PROJECT_DIR$/springmvc5/pom.xml" />
         <option value="$PROJECT_DIR$/springmvc6/pom.xml" />
+        <option value="$PROJECT_DIR$/ssm1/pom.xml" />
       </list>
     </option>
   </component>
